@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FarmTech - cart</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/style-starter.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="bg-light">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <h1><a class="navbar-brand" href="index.html">
+                    Farm<span class="sub-color">Tech</span>
+                </a></h1>
+                <div class="collapse navbar-collapse">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="product.html">Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.html">Contact</a>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="cart.html"><i class="fas fa-shopping-cart"></i></a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <script>
+        function removeCartItem(button) {
+            // Find the parent cart item element
+            var cartItem = button.closest('.cart-item');
+    
+            // Remove the cart item from the DOM
+            cartItem.parentNode.removeChild(cartItem);
+    
+            // Update the cart summary (you may need to implement this based on your actual requirements)
+            updateCartSummary();
+        }
+    
+        // Function to update the cart summary (you may need to implement this based on your actual requirements)
+        function updateCartSummary() {
+            // Add your logic to update the subtotal, tax, and total based on the remaining cart items
+        }
+    </script>
+    <header class="py-3">
+        <div class="container">
+            <h1>Your Shopping Cart</h1>
+        </div>
+    </header>
+
+    <section class="container my-5">
+        <div class="row">
+            <div class="col-md-8">
+                <!-- Cart Items List -->
+                <div class="cart-item">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <img src="./assets/images/product_3192_1_thumb.jpg" class="img-fluid" alt="Product">
+                        </div>
+                        <div class="col-md-5">
+                            <h4>MTL-85R-Bit-20" OLEO MAC EARTH AUGER</h4>
+                            <p>$299.00</p>
+                        </div>
+                        <div class="col-md-2">
+                            <input type="number" class="form-control" value="1">
+                        </div>
+                        <div class="col-md-2">
+                            <button class="btn btn-danger">Remove</button>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more cart items here -->
+            </div>
+
+            <div class="col-md-4">
+                <!-- Cart Summary -->
+                <div class="border p-3 mb-3">
+                    <h3 class="mb-3">Cart Summary</h3>
+                    <div class="d-flex justify-content-between">
+                        <span>Subtotal</span>
+                        <span>$299.00</span>
+                    </div>
+                    <div class="d-flex justify-content-between">
+                        <span>Tax</span>
+                        <span>$23.92</span>
+                    </div>
+                    <div class="d-flex justify-content-between">
+                        <span>Total</span>
+                        <span>$322.92</span>
+                    </div>
+                    <button class="btn btn-warning w-100 mt-3">Proceed to Checkout</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="w3l-footer-29-main">
+        <div class="footer-29-w3l py-5">
+            <div class="container pt-md-5">
+                <div class="w3l-footer-text-style">
+                    <div class="footer-list-cont d-sm-flex align-items-center justify-content-between mb-5">
+
+                        <h2 class="w3logo"><a class="navbar-brand" href="index.html">
+                                Farm<span class="sub-color">Tech</span>
+                            </a></h2>
+                        <div class="main-social-footer-29">
+                            <ul>
+                                <li class="w3follow mt-sm-0 mt-4">Follows On : </li>
+                                <li><a href="#facebook" class="facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#twitter" class="twitter"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#instagram" class="instagram"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="#linkedin" class="linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row footer-top-29 pt-lg-5 pt-sm-4">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="address-grid">
+                            <h5>20 Cooper Square, New York, NY 10003, Newyork<br> USA</h5>
+                            
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 mt-sm-0 mt-4 ps-lg-5">
+                        <div class="address-grid">
+                            <h5>Phone</h5>
+                            <h5 class="phone-number-text mt-2"><a href="tel:+1(21) 112 7368">+1(555) 555-1234</a></h5>
+                        </div>
+                        <div class="address-grid mt-sm-5 mt-4">
+                            <h5>E-mail</h5>
+                            <h5 class="email-cont-text mt-1"> <a href="mailto:photogenic@mail.com" class="mail">farmertech@mail.com</a></h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-5 footer-list-menu ps-lg-5 mt-lg-0 mt-sm-5 mt-4">
+                        <div class="address-grid">
+                            <h5 class="mb-4 pb-lg-2">Support</h5>
+                            <ul>
+                                <li><a href="#privacy">Privacy Policy</a></li>
+                                <li><a href="#terms"> Terms of Service</a></li>
+                                <li><a href="contact.html">Contact us</a></li>
+                                <li><a href="#faq">faQ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="address-grid col-lg-4 col-md-6 col-sm-7 ps-lg-5 mt-lg-0 mt-sm-5 mt-4 w3l-footer-16-main">
+                        <h5>Subscribe here</h5>
+                        <form action="#" class="subscribe d-flex mt-4 pt-lg-2 mb-4" method="post">
+                            <input type="email" name="email" placeholder="Email Address" required="">
+                            <button><span class="fa fa-paper-plane" aria-hidden="true"></span></button>
+                        </form>
+                        <p>Subscribe to our mailing list and get updates to your email inbox.</p>
+                    </div>
+                </div>
+                <div class="w3l-copyright text-center mt-lg-5 mt-sm-4 pt-md-4 pt-3">
+                    <p class="copy-footer-29">© 2024 FarmTech. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+        
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-PPmltI4DzdaNfQz9JdGpI3TZfvlw7irzjBn3wKgNmCUp0auj/uTPmSy7Ou1EP9J4" crossorigin="anonymous"></script>
+</body>
+</html>
