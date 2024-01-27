@@ -20174,4 +20174,22 @@ p.copy-footer-29 {
         font-size: 16px;
     }
 }
+.navbar-collapse .navbar-nav .nav-item a:hover {
+    color: #02924e;
+}
 
+.cart-item {
+    margin-bottom: 2rem;
+}
+
+
+.card-title a {
+    color: #02924e; 
+    text-decoration: none; 
+}
+
+@media (max-width: 768px) {
+    .banner-image {
+        min-height: 300px; /* Adjust banner image for smaller devices */
+    }
+}
