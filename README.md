@@ -11,7 +11,7 @@ FarmTech offers a range of features to meet the diverse needs of farmers and agr
 - Precision Planting Tools.
 - Quality Assurance.
 
-Our weather AI Tools:
+Our weather AI Tools::cloud_with_lightning_and_rain:
 -Live weather Tool.
 
 -Weather overlays Tool.
@@ -45,7 +45,7 @@ Agriculture equipment & Products at a Lower Cost:tractor:
 
 ![farmtech6](https://github.com/sivasiva44/Farmtech/assets/118961017/b24884a9-a4af-4b2e-b4d5-e9accc88fe79)
 
-# Azure services
+# Azure services : :robot:
 -Static Web App.
 
 -Azure Maps.
@@ -56,7 +56,7 @@ Agriculture equipment & Products at a Lower Cost:tractor:
 
 -QnA Maker.
 
-## Tech Stacks
+## Tech Stacks : :man_technologist:
 -[Azure(Hosting)](https://azure.microsoft.com/en-in/get-started/azure-portal)
 
 -Html.
