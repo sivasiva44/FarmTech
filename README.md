@@ -8,10 +8,8 @@ FarmTech is an innovative agriculture technology solution designed to enhance ef
 # Features
 FarmTech offers a range of features to meet the diverse needs of farmers and agribusinesses:
 - Comprehensive Crop Care.
-  
--Precision Planting Tools.
-
--Quality Assurance.
+- Precision Planting Tools.
+- Quality Assurance.
 
 *Our weather AI Tools:*
 
