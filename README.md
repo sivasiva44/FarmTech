@@ -42,12 +42,16 @@ FarmTech offers a range of features to meet the diverse needs of farmers and agr
 
 # Azure services
 -Static Web App.
+
 -Azure Maps.
+
 -Azure AI Bot Service.
+
 -AI Language.
+
 -QnA Maker.
 
-##Tech Stacks
+## Tech Stacks
 -[Azure(Hosting)](https://azure.microsoft.com/en-in/get-started/azure-portal)
 -Html
 -Css
