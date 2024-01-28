@@ -49,7 +49,7 @@ Agriculture equipment & Products at a Lower Cost:tractor:
 # Azure services : :robot:
 -Static Web App.
 
--Azure Maps.
+-Azure Maps. :world_map:
 
 -Azure AI Bot Service.
 
