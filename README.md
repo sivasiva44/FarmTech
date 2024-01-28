@@ -3,7 +3,7 @@ FarmTech is an innovative agriculture technology solution designed to enhance ef
 
 :link: **Project Link** : https://delightful-ocean-07e793100.4.azurestaticapps.net/
 
-:camera_flash: **project demo video link** :
+:camera_flash: **project demo video link** : https://drive.google.com/file/d/1HOUH8Oc7mGav0y22CEy8jqKzwB2rqTN7/view?usp=sharing
 
 # Features
 FarmTech offers a range of features to meet the diverse needs of farmers and agribusinesses:
