@@ -2,18 +2,19 @@
 FarmTech is an innovative agriculture technology solution designed to enhance efficiency, productivity, and sustainability in modern farming practices. This README file provides essential information for users, developers, and stakeholders interested in understanding and utilizing the FarmTech platform.
 
 **Project Link** : https://delightful-ocean-07e793100.4.azurestaticapps.net/
+
 **project demo video link** :
 
 # Features
 FarmTech offers a range of features to meet the diverse needs of farmers and agribusinesses:
-- Comprehensive Crop Care
--Precision Planting Tools
--Quality Assurance
+- Comprehensive Crop Care.
+-Precision Planting Tools.
+-Quality Assurance.
 *Our weather AI Tools:*
- -Live weather Tool
- -Weather overlays Tool
- -Current air quality tool
-*Agriculture equipment & Products at a Lower Cost*
+ -Live weather Tool.
+ -Weather overlays Tool.
+ -Current air quality tool.
+*Agriculture equipment & Products at a Lower Cost.*
 
 ##Screenshots
 # HOME
@@ -53,6 +54,9 @@ FarmTech offers a range of features to meet the diverse needs of farmers and agr
 
 ## Tech Stacks
 -[Azure(Hosting)](https://azure.microsoft.com/en-in/get-started/azure-portal)
--Html
--Css
--Javascript
+
+-Html.
+
+-Css.
+
+-Javascript.
