@@ -8,15 +8,22 @@ FarmTech is an innovative agriculture technology solution designed to enhance ef
 # Features
 FarmTech offers a range of features to meet the diverse needs of farmers and agribusinesses:
 - Comprehensive Crop Care.
+- 
 -Precision Planting Tools.
--Quality Assurance.
-*Our weather AI Tools:*
- -Live weather Tool.
- -Weather overlays Tool.
- -Current air quality tool.
-*Agriculture equipment & Products at a Lower Cost.*
 
-##Screenshots
+-Quality Assurance.
+
+*Our weather AI Tools:*
+
+ -Live weather Tool.
+ 
+ -Weather overlays Tool.
+ 
+ -Current air quality tool.
+ 
+*Agriculture equipment & Products at a Lower Cost.*:tractor:
+
+## Screenshots
 # HOME
 
 ![farmtech scrshot1](https://github.com/sivasiva44/Farmtech/assets/118961017/a002bcbb-a946-4db9-890c-a5aca4857f44)
