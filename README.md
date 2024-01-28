@@ -11,15 +11,12 @@ FarmTech offers a range of features to meet the diverse needs of farmers and agr
 - Precision Planting Tools.
 - Quality Assurance.
 
-*Our weather AI Tools:*
-
- -Live weather Tool.
+Our weather AI Tools:
+-Live weather Tool.
+-Weather overlays Tool.
+-Current air quality tool.
  
- -Weather overlays Tool.
- 
- -Current air quality tool.
- 
-*Agriculture equipment & Products at a Lower Cost.*:tractor:
+Agriculture equipment & Products at a Lower Cost:tractor:
 
 ## Screenshots
 # HOME
