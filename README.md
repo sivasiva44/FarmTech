@@ -1,7 +1,7 @@
 # Farmtech :farmer:
 FarmTech is an innovative agriculture technology solution designed to enhance efficiency, productivity, and sustainability in modern farming practices. This README file provides essential information for users, developers, and stakeholders interested in understanding and utilizing the FarmTech platform.
 
-:link: **Project Link** : https://delightful-ocean-07e793100.4.azurestaticapps.net/
+:link: **Project Link** :  https://sivasiva44.github.io/Farmtech/
 
 :camera_flash: **project demo video link** : https://drive.google.com/file/d/1HOUH8Oc7mGav0y22CEy8jqKzwB2rqTN7/view?usp=sharing
 
